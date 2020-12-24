@@ -1,7 +1,7 @@
 print("hello world");
 
 def add(x,y):
-    pass
+    return x+y
 
 def subract(x,y):
     pass
@@ -12,5 +12,5 @@ def multiply(x,y):
 def divide(x,y):
     pass
 
-def square(x,y):
+def square(x):
     pass
